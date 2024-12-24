@@ -37,10 +37,6 @@ A few of the things you can do with this app:
 
 ## Project Demo
 
-### Live Demo
-
-Live Project url: [reactjs-online-store](https://reactjs-online-store.netlify.app/)
-
 ### Store Page
 
 <p>
